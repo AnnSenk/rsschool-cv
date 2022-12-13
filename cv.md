@@ -44,4 +44,4 @@ else return false
 
 ## 7. Languages:
 - Russian, Belarussian - native speaker.
-- English - Pre Intermediate
+- English - Pre Intermediate.
