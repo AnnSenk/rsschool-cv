@@ -10,17 +10,17 @@
 I am an accountant in the past, this allows me to analyze in detail the processes and break them down into subtasks. I often undertake to do what is new to me. I am not a conflict person, I prefer to avoid unpleasant situations. I am constantly learning something new, traveling. My goal is to create opportunities for development for the people around me. I try to make this goal a reality.
 
 ## 3. Skills:
-* HTML, CSS, JS
-* Git
-* Markdown
-* Photoshop, Canva
-* CorelDraw
-* Microsoft Office
-* 1C, СБИС
-* Sketchup
-* Mindmeister
-* Tilda
-* Yandex services for placing and promoting advertising
+* HTML, CSS, JS;
+* Git;
+* Markdown;
+* Photoshop, Canva;
+* CorelDraw;
+* Microsoft Office;
+* 1C, СБИС;
+* Sketchup;
+* Mindmeister;
+* Tilda;
+* Yandex services for placing and promoting advertising.
 
 ## 4. Code examples:
 ```
@@ -44,4 +44,4 @@ else return false
 
 ## 7. Languages:
 - Russian, Belarussian - native speaker.
-- English - Pre Intermediate.
+- English - Pre Intermediate
