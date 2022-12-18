@@ -40,6 +40,7 @@ body {
 }
 .nav__list-item a:hover, .language:focus {
     color: #f32e2e;
+    transition: .3s;
 }
 .main-container {
     display: flex;
@@ -89,7 +90,7 @@ body {
     display: flex;
     justify-content: space-around;
 }
-.footer div, .header div {
+.footer div {
     text-align: center;
     margin: auto;
 }
@@ -117,4 +118,7 @@ body {
     background-color: none;
     border-radius: 20%;
     height: 20%;
+}
+a {
+    text-decoration: none;
 }
